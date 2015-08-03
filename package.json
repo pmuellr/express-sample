@@ -1,0 +1,16 @@
+{
+  "name":             "express-sample",
+  "version":          "1.0.0",
+  "description":      "example http server using express",
+  "license":          "Apache-2.0",
+  "dependencies": {
+    "body-parser":    "^1.13.3",
+    "compression":    "^1.5.2",
+    "express":        "^4.13.3",
+    "newrelic":       "^1.21.1",
+    "redis":          "^0.12.1",
+    "serve-favicon":  "^2.3.0",
+    "serve-index":    "^1.7.2",
+    "serve-static":   "^1.10.0"
+  }
+}
